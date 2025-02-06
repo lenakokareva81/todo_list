@@ -1,0 +1,17 @@
+.taskInput {
+	border-right: none;
+	width: 100%;
+	padding: 0 4px;
+	outline: none;
+	border: none;
+	border-bottom: 1px solid #fff;
+	background-color: transparent;
+	margin-right: 12px;
+	color: #fff;
+	box-shadow: none;
+	border-radius: 0;
+
+	&:placeholder {
+		color: #fff;
+	}
+}
